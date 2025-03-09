@@ -1,6 +1,6 @@
 # Daily Step Tracker Analysis System
 
-## Project Overview
+### Project Overview
 This project is a Daily Step Tracker Analysis System that helps users track their daily step count, analyze trends, and gain insights into their activity levels. It includes basic AI-powered predictions for weekly trends and recommendations.
 
 ### Tech Stack
@@ -12,7 +12,7 @@ Visualization: Matplotlib, Seaborn
 Frontend: Streamlit (Web UI)
 Deployment: Render or any cloud-based service
 
-#### Features
+### Features
 User Authentication: Register & login
 Step Data Storage: Manual entry & CSV upload
 Trend Analysis: Interactive graphs & AI insights
